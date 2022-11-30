@@ -7,8 +7,8 @@ import Service from '../components/services/Service'
 const Home = () => {
   return (
     <div>
-{/* <Banner/>
-<Testimonials/> */}
+<Banner/>
+<Testimonials/>
 <Service/>
 
     </div>
