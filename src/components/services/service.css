@@ -1,0 +1,6 @@
+.service-container{
+    background-color: aqua;
+    width: 30%;
+    display: flex;
+    flex-wrap: nowrap;
+}
